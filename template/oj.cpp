@@ -4,5 +4,6 @@
 #include <numeric>
 #include <unordered_map>
 #include <algorithm>
+#include <stack>
 
 using namespace std;
